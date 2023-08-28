@@ -1,0 +1,22 @@
+body {    text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+}
+
+.game-container {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    border: 2px solid red;
+}
+body{
+    background-image: url('https://getwallpapers.com/wallpaper/full/5/e/1/471070.jpg');
+}
+
+.mole {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background: url('https://media.tenor.com/xaJrTrfiRcEAAAAM/happy-panda-bamboo.gif') center/contain no-repeat;
+    cursor: pointer;
+}
